@@ -1,0 +1,86 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+h1,
+.nome-vacina {
+  color: #063252;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+.nome-vacina {
+  font-size: 28px;
+}
+
+.navbar {
+  border-bottom: 2px solid #268744;
+  margin-bottom: 90px;
+}
+
+.nav-item a {
+  color: #063252;
+  font-weight: bold;
+}
+
+.linha_divisoria {
+  border-bottom: 2px solid #268744;
+}
+
+.titulo_detalhe_vacinas {
+  margin: 40px 0 30px 0;
+}
+
+.accordion-item {
+  border-color: #268744;
+}
+
+.ultimo_topico {
+  margin-bottom: 150px;
+}
+
+/* Footer */
+
+footer {
+  background-color: #fafbff;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer .row {
+  margin-bottom: 20px;
+}
+
+footer a {
+  color: black;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.titulo-footer {
+  color: #063252;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.footer-copyright {
+  background-color: #268744;
+  padding: 10px;
+}
+
+.footer-copyright p {
+  color: white;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 500;
+}
