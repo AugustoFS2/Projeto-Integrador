@@ -1,0 +1,60 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.container {
+    height: auto;
+    width: 100%;
+}
+
+#perfilJ {
+    height: 250px;
+    width: 250px;
+}
+
+#perfilA {
+    height: auto;
+    width: 200px;
+}
+
+h2 {
+    padding-top: 45%;
+}
+
+#divAugusto {
+    margin-top: 3%;
+}
+
+#divJoão {
+    margin-bottom: 3%;
+}
+
+footer {
+    background-color: #fafbff;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.titulo-footer {
+    color: #063252;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-copyright {
+    background-color: #268744;
+    padding: 10px;
+}
+
+.footer-copyright p {
+    color: white;
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+}
